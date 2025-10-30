@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors (Based on Auroville Institute of Applied Technology Logo) -->
+    <color name="colorPrimary">#F4511E</color> <!-- Deep Orange 600 (Main Accent) -->
+    <color name="colorPrimaryVariant">#E64A19</color> <!-- Darker Deep Orange (Status Bar) -->
+    <color name="colorSecondary">#607D8B</color> <!-- Blue Grey 500 (Secondary Accent for Buttons/FABs) -->
+
+    <!-- Standard Text & Background Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray_background">#F4F6F8</color>
+    <color name="dark_text">#212121</color>
+    <color name="medium_text">#757575</color>
+    <color name="light_text">#BDBDBD</color>
+    <color name="dark_navy_blue">#0A1128</color> <!-- Used for Institute Name -->
+
+    <!-- Status Colors (for progress bars, indicators) -->
+    <color name="positive_green">#4CAF50</color> <!-- Standard Green for 'Present' -->
+    <color name="negative_red">#F44336</color>   <!-- Standard Red for 'Absent Uninformed' -->
+    <color name="warning_yellow">#FF9800</color>  <!-- Standard Orange for 'Absent Informed' -->
+</resources>

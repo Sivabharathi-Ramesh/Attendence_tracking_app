@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray_background"
+    tools:context=".SubjectAttendanceViewActivity">
+
+    <!-- App Bar / Toolbar (Orange Header) -->
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <!-- Report Subject Title -->
+        <TextView
+            android:id="@+id/textViewSubjectName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="16dp"
+            android:paddingTop="16dp"
+            android:paddingEnd="16dp"
+            android:paddingBottom="8dp"
+            tools:text="Attendance Matrix for: Database Systems (Theory)"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="@color/dark_navy_blue" />
+
+        <!-- NOTE ON MATRIX VIEW: Creating a true scrollable 2D matrix in XML is complex.
+             We use two synchronized RecyclerViews: one for names (fixed) and one for data (scrollable).
+             For the placeholder, we use a HorizontalScrollView.
+        -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <!-- 1. Fixed Student Column (Names and Roll Numbers) -->
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerViewNames"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:paddingTop="4dp"
+                android:paddingBottom="4dp"
+                tools:listitem="@layout/item_enrolled_student" />
+
+            <!-- 2. Scrollable Attendance Data (Dates/P/A/AI/AU) -->
+            <HorizontalScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:background="@color/light_gray_background"
+                tools:ignore="UselessParent">
+
+                <!-- Inner Container for Dates and Data -->
+                <LinearLayout
+                    android:id="@+id/linearLayoutMatrix"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <!-- Placeholder for Date Headers (Oct 24, Oct 25, etc.) -->
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Date Headers will go here ->"
+                        android:padding="8dp"
+                        android:textColor="@color/dark_text"
+                        android:textSize="12sp" />
+
+                    <!-- Placeholder for Attendance Cells -->
+                    <androidx.recyclerview.widget.RecyclerView
+                        android:id="@+id/recyclerViewAttendanceMatrix"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:paddingTop="4dp"
+                        android:paddingBottom="4dp"
+                        tools:listitem="@layout/item_attendance_roster"
+                        android:orientation="vertical" />
+
+                </LinearLayout>
+
+            </HorizontalScrollView>
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

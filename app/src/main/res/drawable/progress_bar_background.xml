@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This drawable creates the background for our progress bar -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- This is the background (the grey track) -->
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="4dp" />
+            <solid android:color="#E0E0E0" />
+        </shape>
+    </item>
+
+    <!-- This is the progress (the colored part) -->
+    <!-- We will change the color of this part in our Kotlin code -->
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape>
+                <corners android:radius="4dp" />
+                <solid android:color="#1E88E5" /> <!-- Default to blue -->
+            </shape>
+        </clip>
+    </item>
+
+</layer-list>

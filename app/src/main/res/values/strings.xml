@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="institute_name">Auroville Institute of Applied Technology</string>
+    <string name="institute_name_short">AIAT Attendance</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#F4511E</color>
+    <color name="colorPrimaryVariant">#E64A19</color>
+    <color name="colorSecondary">#607D8B</color>
+    <color name="dark_navy_blue">#0A1128</color>
+    <color name="dark_text">#212121</color>
+    <color name="light_gray_background">#F4F6F8</color>
+    <color name="light_text">#BDBDBD</color>
+    <color name="medium_text">#757575</color>
+    <color name="negative_red">#F44336</color>
+    <color name="positive_green">#4CAF50</color>
+    <color name="warning_yellow">#FF9800</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Attendance System</string>
+    <string name="institute_name">Auroville Institute of Applied Technology</string>
+    <string name="institute_name_short">AIAT Attendance</string>
+    <style name="CalenderViewDateCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/dark_navy_blue</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="CalenderViewWeekCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="Theme.AttendanceSystem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorSecondaryVariant">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+        
+        <item name="android:windowBackground">@color/light_gray_background</item>
+    </style>
+</resources>

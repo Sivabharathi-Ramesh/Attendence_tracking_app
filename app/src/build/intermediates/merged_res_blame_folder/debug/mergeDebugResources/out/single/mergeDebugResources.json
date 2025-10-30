@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-hdpi_ic_launcherlogo_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-hdpi\\ic_launcherlogo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-mdpi_ic_launcherlogo.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-mdpi\\ic_launcherlogo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_student_report_view.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_student_report_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxxhdpi_ic_launcherlogo_foreground.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxxhdpi\\ic_launcherlogo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxxhdpi_ic_launcherlogo.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxxhdpi\\ic_launcherlogo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_academic_management.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_academic_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_rounded_background.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\rounded_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_attendance_reports.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_attendance_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_item_attendance_roster.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\item_attendance_roster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_view_past_attendance.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_view_past_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xhdpi_ic_launcherlogo.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xhdpi\\ic_launcherlogo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_item_student_report_subject.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\item_student_report_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_teacher_dashboard.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_teacher_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_item_student_subject.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\item_student_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_ic_launcherlogo_background.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\ic_launcherlogo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_item_enrolled_student.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\item_enrolled_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_item_student_detail_row.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\item_student_detail_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_fragment_teacher_list.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\fragment_teacher_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-mdpi_ic_launcherlogo_foreground.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-mdpi\\ic_launcherlogo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_fragment_subject_list.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\fragment_subject_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_subject_dashboard.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_subject_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_student_dashboard.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_student_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_student_subject_detail.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_student_subject_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxxhdpi_ic_launcherlogo_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxxhdpi\\ic_launcherlogo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-mdpi_ic_launcherlogo_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-mdpi\\ic_launcherlogo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-hdpi_ic_launcherlogo.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-hdpi\\ic_launcherlogo.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_item_subject_teacher.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\item_subject_teacher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xhdpi_ic_launcherlogo_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xhdpi\\ic_launcherlogo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-anydpi-v26_ic_launcherlogo_round.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-anydpi-v26\\ic_launcherlogo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-anydpi-v26_ic_launcherlogo.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-anydpi-v26\\ic_launcherlogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-hdpi_ic_launcherlogo_foreground.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-hdpi\\ic_launcherlogo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxhdpi_ic_launcherlogo.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxhdpi\\ic_launcherlogo.webp"
+    },
+    {
+        "merged": "com.example.attendancesystem.app-debug-33:/layout_activity_subject_attendance_view.xml.flat",
+        "source": "com.example.attendancesystem.app-main-35:/layout/activity_subject_attendance_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_add_subject.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_add_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_user_management.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_user_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_fragment_department_list.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\fragment_department_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxhdpi_ic_launcherlogo_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxhdpi\\ic_launcherlogo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_progress_bar_background.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\progress_bar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xxhdpi_ic_launcherlogo_foreground.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xxhdpi\\ic_launcherlogo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_take_attendance_roster.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_take_attendance_roster.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_activity_add_user.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\activity_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\mipmap-xhdpi_ic_launcherlogo_foreground.webp.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\mipmap-xhdpi\\ic_launcherlogo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_custom_spinner_item.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\custom_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\layout_fragment_student_list.xml.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\layout\\fragment_student_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-debug-33:\\drawable_college_logo.png.flat",
+        "source": "C:\\Users\\Sivabharathi\\.gradle\\daemon\\8.13\\com.example.attendancesystem.app-main-35:\\drawable\\college_logo.png"
+    }
+]

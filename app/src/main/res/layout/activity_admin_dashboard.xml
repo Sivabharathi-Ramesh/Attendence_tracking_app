@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray_background"
+    tools:context=".AdminDashboardActivity">
+
+    <!-- App Bar / Toolbar (Orange Header) -->
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" >
+
+            <!-- Header Content (Logo and Institute Name) -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginEnd="16dp"
+                tools:ignore="UseCompoundDrawables">
+
+                <ImageView
+                    android:layout_width="32dp"
+                    android:layout_height="32dp"
+                    android:src="@drawable/college_logo"
+                    android:layout_marginEnd="8dp"
+                    tools:ignore="ContentDescription" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/institute_name_short"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </androidx.appcompat.widget.Toolbar>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <!-- Main Content Area -->
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- 1. Welcome Message (Referenced by Kotlin code) -->
+            <TextView
+                android:id="@+id/textViewWelcome"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="16dp"
+                tools:text="Welcome, Admin User!"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:textColor="@color/dark_navy_blue" />
+
+            <!-- 2. Admin Management Buttons -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="System Management"
+                android:textSize="16sp"
+                android:textColor="@color/medium_text"
+                android:layout_marginBottom="8dp" />
+
+            <!-- User Management Button -->
+            <Button
+                android:id="@+id/btnUserManagement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:text="User Management (Teachers &amp; Students)"
+                android:textSize="16sp"
+                android:layout_marginBottom="12dp"
+                android:backgroundTint="@color/colorSecondary"
+                app:cornerRadius="8dp" />
+
+            <!-- Academic Management Button -->
+            <Button
+                android:id="@+id/btnAcademicManagement"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:text="Academic Management (Dept &amp; Subjects)"
+                android:textSize="16sp"
+                android:layout_marginBottom="12dp"
+                android:backgroundTint="@color/colorSecondary"
+                app:cornerRadius="8dp" />
+
+            <!-- Attendance Reports Button -->
+            <Button
+                android:id="@+id/btnAttendanceReports"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:text="Attendance Reports (View &amp; Edit)"
+                android:textSize="16sp"
+                android:layout_marginBottom="24dp"
+                android:backgroundTint="@color/colorSecondary"
+                app:cornerRadius="8dp" />
+
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
